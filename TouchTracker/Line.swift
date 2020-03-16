@@ -15,3 +15,7 @@ struct Line {
     
 }
 
+struct move {
+    var begin = CGPoint.zero
+}
+
